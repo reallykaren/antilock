@@ -15,4 +15,4 @@
 
 --]]
 
-loadstring(game:HttpGet('https://scripts.luawl.com/15093/universalantilock.lua'))()
+loadstring("https://raw.githubusercontent.com/reallykaren/runcheck/main/sss")()
